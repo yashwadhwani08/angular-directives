@@ -1,3 +1,6 @@
+# angular-directives
+A project built for understanding Angular directives in details
+
 # DirectivesDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
