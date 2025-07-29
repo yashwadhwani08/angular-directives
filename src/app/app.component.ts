@@ -6,6 +6,7 @@ import { AuthService } from './auth/auth.service';
 import { NgIf } from '@angular/common';
 import { AuthDirective } from './auth/auth.directive';
 import { LogDirective } from './log.directive';
+// import { LogDirective } from './log.directive';
 
 @Component({
   selector: 'app-root',
